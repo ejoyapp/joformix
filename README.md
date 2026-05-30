@@ -12,4 +12,4 @@ For video analysis, automated pipeline workflows, and visual machine learning, d
 🌍 Multi-Language Matrix Ready
 To support global video engineering pipelines, JoForMix's capture layout and technical metadata registers have been upgraded to support international i18n configurations across English, Chinese, Korean, Japanese, French, and German.
 
-👉 Join our Beta program today: https://www.ejoyapp.com/zh/product/joformix
+👉 Join our Beta program today: https://www.ejoyapp.com/product/joformix
