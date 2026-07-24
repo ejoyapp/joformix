@@ -1,7 +1,7 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
-  "version": "2.1.2",
-  "releaseDate": "2026-07-04",
+  "version": "2.2.0",
+  "releaseDate": "2026-07-24",
   "notes": {
     "en": "Initial public release: batch conversion, folder import, ffplay preview, GPU detection, 6 languages.",
     "zh": "首个公开版本：批量转换、文件夹导入、ffplay 预览、GPU 检测、六种语言。",
@@ -11,10 +11,10 @@
     "ja": "初の公開リリース：バッチ変換、フォルダ取り込み、ffplay プレビュー、GPU 検出、6 言語対応。"
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/joformix/releases/download/v2.1.2/JoForMix.Setup.2.1.2.exe", 
-    "win-portable":   "https://github.com/ejoyapp/joformix/releases/download/v2.1.2/JoForMix.2.1.2.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/joformix/releases/download/v2.1.2/JoForMix.2.1.2.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/joformix/releases/download/v2.1.2/JoForMix.2.1.2.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/joformix/releases/download/v2.2.0/JoForMix.Setup.2.2.0.exe", 
+    "win-portable":   "https://github.com/ejoyapp/joformix/releases/download/v2.2.0/JoForMix.2.2.0.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/joformix/releases/download/v2.2.0/JoForMix.2.2.0.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/joformix/releases/download/v2.2.0/JoForMix.2.2.0.AppImage"
   },
   "stores": {
     "mas":     "macappstore://itunes.apple.com/app/id0000000000",
